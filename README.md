@@ -1,19 +1,25 @@
-## Hi there 👋
+## Hi! Nice to see you! I'm Jaewon 👋
 
-<!--
-**jaelim095/jaelim095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I code with 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/apacheairflow-#017CEE?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachespark-#E25A1C?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachehadoop-#66CCFF?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/trino-#DD00A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachekafka-#231F20?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/snowflake-#29B5E8?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/elasticsearch-#005571?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/postman-#FF6C37?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## My latest posts
+
+[![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelim095)](https://github.com/jaelim095/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelim095)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Connect with me 
+
+
