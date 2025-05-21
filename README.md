@@ -17,14 +17,15 @@ I'm passionate about **real-time big data streaming**.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 
-```
-## GitHub Stats Card
+
+
+<!-- ## GitHub Stats Card
 
 [![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelim095&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelim095&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-```
 
 
 
