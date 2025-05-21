@@ -20,8 +20,10 @@ I'm passionate about **real-time big data streaming**.
 
 ## GitHub Stats Card
 
-[![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelim095)](https://github.com/jaelim095/github-readme-stats)
+[![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelim095&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelim095)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Latest Blog Posts
 - [[Python] 파이썬 환경 설정 (2025.5.20)](https://velog.io/@jaelim095/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)
 - [[Apache Spark] Spark 정리 (2025.5.19)](https://velog.io/@jaelim095/Apache-Spark)
