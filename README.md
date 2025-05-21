@@ -4,16 +4,18 @@ Welcome! I'm Jaewon, a Data Engineer from Seoul, South Korea, with a background 
 I'm passionate about **real-time big data streaming**.
 
 ## Things I code with 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=Trino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=Trino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+</p>
 
 
 ## GitHub Stats Card
@@ -70,7 +72,9 @@ jobs:
         branch: main
 
 ## Connect with me 
-
+<a href="mailto:jaelim095@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 <a href="https://instagram.com/limjaeon__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
