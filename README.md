@@ -22,67 +22,7 @@ I'm passionate about **real-time big data streaming**.
 
 [![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelim095)](https://github.com/jaelim095/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelim095)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Latest Blog Posts
-name: Update Blog Posts
-on:
-  push:
-    branches: [ main ]
-    paths-ignore:    # README.md 변경은 무시
-      - 'README.md'
-  pull_request:
-    branches: [ main ]
-  schedule:
-    - cron: "0 */6 * * *"  # 6시간 마다 실행
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GH_TOKEN }}
-        
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-        cache: 'npm'
-        
-    - name: Install dependencies
-      run: npm ci
-        
-    - name: Update README
-      run: npm run update
-        
-    - name: Commit and push changes
-      env:
-        GH_TOKEN: ${{ secrets.GIT_TOKEN }}
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "docs: Update blog posts"
-
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GIT_TOKEN }}
-        branch: main
-
-## Connect with me 
-<a href="mailto:jaelim095@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/limjaeon__" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/jaewon-lim-563510159/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-</a>
-<a href="https://velog.io/@jaelim095" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
-
-
+- [[Python] 파이썬 환경 설정 (2025.5.20)](https://velog.io/@jaelim095/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)
+- [[Apache Spark] Spark 정리 (2025.5.19)](https://velog.io/@jaelim095/Apache-Spark)
+- [[Elasticsearch] esrally benchmark (2025.5.9)](https://velog.io/@jaelim095/Elasticsearch-esrally-benchmark)
