@@ -23,7 +23,7 @@ I'm passionate about **real-time big data streaming**.
 [![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaelim095)](https://github.com/jaelim095/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelim095)](https://github.com/anuraghazra/github-readme-stats)
 
-## My latest posts
+## Latest Blog Posts
 name: Update Blog Posts
 on:
   push:
