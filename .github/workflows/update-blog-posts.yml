@@ -34,9 +34,11 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git remote set-url origin https://jaelim095:${GH_TOKEN}@github.com/jaelim095/jaelim095.git
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "docs: Update blog posts"
-
+        git push origin main
+        
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
