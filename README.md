@@ -29,7 +29,3 @@ I'm passionate about **real-time big data streaming**.
 
 
 
-## Latest Blog Posts
-- [[Python] 파이썬 환경 설정 (2025.5.20)](https://velog.io/@jaelim095/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95)
-- [[Apache Spark] Spark 정리 (2025.5.19)](https://velog.io/@jaelim095/Apache-Spark)
-- [[Elasticsearch] esrally benchmark (2025.5.9)](https://velog.io/@jaelim095/Elasticsearch-esrally-benchmark)
