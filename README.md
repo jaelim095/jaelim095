@@ -1,4 +1,4 @@
-## Hi! Nice to see you! I'm Jaewon 👋
+## Hi!! Nice to see you! I'm Jaewon 👋
 
 Welcome! I'm Jaewon, a Data Engineer from Seoul, South Korea, with a background in Mathematics and Computing Science.
 I'm passionate about **real-time big data streaming**.
