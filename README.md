@@ -26,6 +26,6 @@ I'm passionate about **real-time big data streaming**.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaelim095&layout=compact&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## Latest Blog Posts
+- [[Apache Spark] Streaming Processing (DStream, Structured Streaming) (2025.6.20)](https://velog.io/@jaelim095/Apache-Spark-Streaming-Processing-DStream-Structured-Streaming)
 - [[Palantir] 팔란티어 프로젝트 회고 (2025.6.13)](https://velog.io/@jaelim095/Palantir-%ED%8C%94%EB%9E%80%ED%8B%B0%EC%96%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 - [[Apache Spark] Spark (RDD vs DataFrame vs Dataset) (2025.5.27)](https://velog.io/@jaelim095/Apache-Spark-2mras6mp)
-- [[Github] Velog to Github 자동 업데이트 (2025.5.21)](https://velog.io/@jaelim095/Github-Velog-to-Github-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8)
